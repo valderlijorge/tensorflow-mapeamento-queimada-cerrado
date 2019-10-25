@@ -1,2 +1,2 @@
 # tensorflow-mapeamento-queimada-cerrado
-Mapeamento de queimada no Cerrado a partir de imagens Landsat usando Tensorflow com Rede Neural Convolucional - CNN
+Mapeamento de queimada no Cerrado a partir de imagens Landsat usando Tensorflow
